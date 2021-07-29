@@ -1,0 +1,3 @@
+include ':libraryTitleBar'
+include ':app'
+rootProject.name = "LEasyTitleBar"
